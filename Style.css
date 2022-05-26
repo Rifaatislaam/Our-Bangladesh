@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+}
+
+.note {color: red;}
+.rifat { color: green;}
+.list {
+    font-size:150% ;
+}
+    
+.defination {
+    font-family:'Lucida Grande';
+    font-size: 120%;
+}
+* { box-sizing: border-box;}
+nav {
+    float: left;
+    width:40%;
+    height: 350px;
+    background:fixed;
+    padding: 5px;
+    border: 2px;}
+article {
+    float:left;
+    padding: 20px;
+    width: 60%;
+    background: lightgray;
+    height: 350px;
+}
+.topic01:hover{
+    color: white;
+    background-color: green;
+    text-align: center;
+    font-family: Verdana;
+    font-feature-settings: "blws";
+}
+
+
+.amni {
+    float: left;
+    width: 50%;
+}
