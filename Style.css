@@ -7,6 +7,14 @@
 .list {
     font-size:150% ;
 }
+.link-button {
+    color: white;
+    text-decoration: none;
+    padding: 5px 10px;
+    background-color: olive;
+    font-weight: 700px;
+    border-radius: 5px;
+}
     
 .defination {
     font-family:'Lucida Grande';
@@ -33,10 +41,4 @@ article {
     text-align: center;
     font-family: Verdana;
     font-feature-settings: "blws";
-}
-
-
-.amni {
-    float: left;
-    width: 50%;
 }
